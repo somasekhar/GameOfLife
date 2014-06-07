@@ -1,0 +1,49 @@
+
+Execution of Problem-1 (supports only 3x3 matrix. executed only Boat pattern as in the pdf file)
+----------------------
+
+$ ruby problem-1.rb
+
+Enter 3 row elements separated by coma. eg: x,-,x
+x,x,-
+Enter 3 row elements separated by coma. eg: x,-,x
+x,-,x
+Enter 3 row elements separated by coma. eg: x,-,x
+-,x,-
+updated below
+xx-
+x-x
+-x-
+updated below
+xx-
+x-x
+-x-
+updated below
+xx-
+x-x
+-x-
+
+updated below
+xx-
+x-x
+-x-
+updated below
+xx-
+x-x
+-x-
+
+updated below
+xx-
+x-x
+-x-
+
+final state:
+updated below
+xx-
+x-x
+-x-
+
+
+
+
+
